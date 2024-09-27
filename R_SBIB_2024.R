@@ -5,7 +5,8 @@
 ## PRATICA: Manipulacao de dados
 
 #-- Definindo o diretorio
-setwd("Documentos/SBIB_2024/")
+setwd("/home/leon/Documents/SBIB2024/sbib2024/")
+
 
 #-- Download dos dados genomicos
 url = "https://gdc-hub.s3.us-east-1.amazonaws.com/download/TCGA-OV.htseq_counts.tsv.gz"
